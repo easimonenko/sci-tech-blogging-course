@@ -22,6 +22,10 @@
 
 _Здесь будут слайды и другие материалы курса._
 
+Слайды:
+
+- О курсе: [PDF](slides-about-course.pdf) | [LaTeX](slides-about-course.tex)
+
 ## Что почитать
 
 - [Пишем на Хабр: просто о технически сложном](https://www.youtube.com/watch?v=L87caoiUPS0)
