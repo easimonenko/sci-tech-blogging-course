@@ -24,7 +24,10 @@ _Здесь будут слайды и другие материалы курс�
 
 Слайды:
 
-- О курсе: [PDF](slides-about-course.pdf) | [LaTeX](slides-about-course.tex)
+- О курсе:
+  [PDF](slides-about-course.pdf) | [LaTeX](slides-about-course.tex)
+- Блогерство и площадки для публикации блогов:
+  [PDF](slides-blogging.pdf) | [LaTeX](slides-blogging.tex)
 
 ## Что почитать
 
