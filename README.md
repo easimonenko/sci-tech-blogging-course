@@ -28,6 +28,8 @@ _Здесь будут слайды и другие материалы курс�
   [PDF](slides-about-course.pdf) | [LaTeX](slides-about-course.tex)
 - Блогерство и площадки для публикации блогов:
   [PDF](slides-blogging.pdf) | [LaTeX](slides-blogging.tex)
+- Жанры постов на научную и технологическую тематику:
+  [PDF](slides-genres-of-posts.pdf) | [LaTeX](slides-genres-of-posts.tex)
 
 ## Что почитать
 
