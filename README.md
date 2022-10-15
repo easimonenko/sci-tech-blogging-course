@@ -34,6 +34,8 @@ _Здесь будут слайды и другие материалы курс�
   [PDF](slides-topic-and-preparation.pdf) | [LaTeX](slides-topic-and-preparation.tex)
 - Как можно структурировать хороший пост:
   [PDF](slides-structure-of-good-post.pdf) | [LaTeX](slides-structure-of-good-post.tex)
+- Какие ошибки допускают авторы блогов:
+  [PDF](slides-authors-errors.pdf) | [LaTeX](slides-authors-errors.tex)
 
 ## Что почитать
 
