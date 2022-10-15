@@ -32,6 +32,8 @@ _Здесь будут слайды и другие материалы курс�
   [PDF](slides-genres-of-posts.pdf) | [LaTeX](slides-genres-of-posts.tex)
 - Как найти тему для поста и подготовиться к его написанию:
   [PDF](slides-topic-and-preparation.pdf) | [LaTeX](slides-topic-and-preparation.tex)
+- Как можно структурировать хороший пост:
+  [PDF](slides-structure-of-good-post.pdf) | [LaTeX](slides-structure-of-good-post.tex)
 
 ## Что почитать
 
